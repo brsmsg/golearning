@@ -7,12 +7,7 @@ import (
 
 func createWorker(id int) chan<- int {
 	c := make(chan int)
-	go func() {
-		for {
-			n := <-c
-			fmt.Printf("worker %d received %c\n", id, n)
-		}
-	}()
+	go worker(id, c)
 	return c
 }
 
@@ -24,15 +19,12 @@ func chanDemo() {
 	for i := 0; i < 10; i++ {
 		channels[i] <- 'a' + i
 	}
+	
 	time.Sleep(time.Millisecond)
 }
 
 func worker(id int, c chan int) {
-	for {
-		n, ok := <-c
-		if !ok {
-			break
-		}
+	for n := range c {
 		fmt.Printf("worker %d received %c\n", id, n)
 	}
 
@@ -61,7 +53,7 @@ func channelClose() {
 }
 
 func main() {
-	// chanDemo()
-	// bufferedChannel()
+	chanDemo()
+	bufferedChannel()
 	channelClose()
 }
