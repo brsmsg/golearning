@@ -1,0 +1,75 @@
+Yoshua Bengio
+Geoffrey Hinton
+Yann LeCun
+John Leroy Hennessy
+David Andrew Patterson
+Tim Berners-Lee
+Bailey Whitfield Whit Diffie
+Martin Edward Hellman
+Michael Ralph Stonebraker
+Leslie Lamport
+Shafi Goldwasser
+Silvio Micali
+Judea Pearl
+Leslie Gabriel Valiant
+Charles P. Thacker
+Barbara Liskov
+Joseph Sifakis
+Ernest Allen Emerson
+Edmund Melson Clarke
+Frances E. Fran Allen
+Peter Naur
+Robert E. Kahn
+Vinton Gray Cerf
+Alan Curtis Kay
+Ronald Linn Rivest
+Leonard M. Adleman
+Adi Shamir
+Kristen Nygaard
+Ole-Johan Dahl
+Andrew Chi-Chih Yao
+Frederick P. Brooks
+James Nicholas Jim Gray
+Douglas C. Engelbart
+Amir Pnueli
+Manuel Blum
+Raj Reddy
+Edward Albert Feigenbaum
+Richard Edwin Stearns
+Juris Hartmanis
+Butler W. Lampson
+Robin Milner
+Fernando José Corbató
+William Morton Kahan
+Ivan Edward Sutherland
+John Cocke
+John E. Hopcroft
+Robert Endre Tarjan
+Richard M. Karp
+Niklaus Wirth
+Dennis MacAlistair Ritchie
+Kenneth Lane Thompson
+Stephen Arthur Cook
+Edgar F. Ted Codd
+Charles Antony Richard Hoare
+Kenneth E. Iverson
+Robert W Floyd
+John Warner Backus
+Michael Oser Rabin
+Dana Stewart Scott
+Allen Newell
+Herbert Alexander Simon
+Donald Ervin Knuth
+Charles W. Bachman
+Edsger Wybe Dijkstra
+John McCarthy
+James Hardy Wilkinson
+Marvin Lee Minsky
+Richard Wesley Hamming
+Maurice Vincent Wilkes
+Alan Jay Perlis
+Alfred Vaino Aho
+Jeffrey David Ullman
+Edwin E. Catmull
+Patrick M. Hanrahan
+Jack Dongarra
